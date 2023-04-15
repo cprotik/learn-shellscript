@@ -2,4 +2,4 @@
 
 DevOps trainning: This is the part for Shell Scripting.
 
-#### Shell script
+#### Shell script command
