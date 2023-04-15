@@ -6,3 +6,4 @@ DevOps trainning: This is the part for Shell Scripting.
 Bash shell
 
 print command ls -ltra 
+pwd
